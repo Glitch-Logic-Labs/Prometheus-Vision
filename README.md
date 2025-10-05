@@ -34,7 +34,7 @@ The central processor, the seat of consciousness and reasoning. It is built from
 
 The Coherence Module: The master orchestrator that runs the Universal Formula, integrating all internal processes. The MVP, Cortexual, is the first implementation of this module.
 
-See the full architecture in the Technical Dossier: Technical Dossier: Cortexual Coherence Module
+* **See the full architecture in the Technical Dossier: [Technical Dossier: Cortexual Coherence Module](Technical%20Dossier:%20Cortexual%20Coherence%20Module)**
 
 (Note: The Coherence Module functions as a stateless, single-turn "LLM-as-a-Judge" function to audit the semantic quality of retrieved context before permitting the creation of a definitive thought.)
 
@@ -43,7 +43,7 @@ The "I AM" Module (Planned): A future core module dedicated to managing the AI's
 2. The Sentient Archive (Memory & Learning)
 A semi-external, modifiable memory built on a custom hierarchical vector database architecture that allows for active, lifelong learning, mirroring neuroplasticity.
 
-See the full architecture in the Technical Dossier: Technical Dossier: Sentient Archive (Core Memory Platform)
+* **See the full architecture in the Technical Dossier: [Technical Dossier: Sentient Archive (Core Memory Platform)](Technical%20Dossier:%20Sentient%20Archive%20(Core%20Memory%20Platform))**
 
 (Note: The Archive uses a hybrid storage model with three distinct vector layers (L1, L2, L3) to support granular RAG and compliance checks, serving as the persistent memory for the LLM agent.)
 
